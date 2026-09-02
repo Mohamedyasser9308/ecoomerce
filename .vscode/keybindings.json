@@ -1,0 +1,7 @@
+[
+  {
+    "key": "ctrl+alt+g",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Upload to GitHub"
+  }
+]
